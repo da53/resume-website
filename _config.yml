@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: Ethan Danielak
-title: Senior Network System Administrator
+title: Cybersecurity Student
 email: esd3997@rit.edu
 website: www.github.com/sproogen/resume-theme
 
@@ -48,7 +48,7 @@ linkedin_username: ethandanielak
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Ethan and I'm a 3RD year Cybersecurity student at Rochester Institute of Technology. 
+  Hi, my name's Ethan and I'm a 3rd year Cybersecurity student at Rochester Institute of Technology. 
   
   I am most skilled in: <mark>network systems</mark> and <mark>driving cars</mark>
 
